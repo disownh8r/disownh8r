@@ -1,5 +1,3 @@
-https://github.com/disownh8r/disownh8r/blob/main/banner.png?raw=true
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/disownh8r/disownh8r/main/banner.png" width="1125">
 </p>
